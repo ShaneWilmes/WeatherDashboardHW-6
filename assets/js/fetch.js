@@ -10,7 +10,7 @@ class Fetch {
 
         const data = await response.json();
 
-        console.log(data);
+        // console.log(data);  //Not needed.  Used to inspect in DevTools as I added elements of weather to display
 
         return data;
     }
