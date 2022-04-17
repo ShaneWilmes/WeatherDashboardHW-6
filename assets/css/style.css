@@ -1,0 +1,26 @@
+.header-body {
+    
+    height: 100px; 
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.title {
+    color: white;
+    font-family: "Righteous";
+    font-size: 50px;
+}
+
+
+
+button {
+    font-family: "Righteous";   
+}
+
+.btn {
+    color: black;
+    font-size: 30px; 
+    background: royalblue; 
+    border: 20px;  
+}
